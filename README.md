@@ -1,8 +1,8 @@
 # RestfulAPI
 Using Python Django to build and consume RESTful services using JSON. In coding assignments, created the model, serializer, views and urls for Kanban card with a many (tasks)-to-one(card) relationship, implemented the JWT-based &amp; basic authentications
 
-* restProject is in-class Practices using Bookstore as an example.
-* kanbanProject is the project for Kanban card.
+* 'restProject' folder contains in-class Practices using Bookstore as an example.
+* 'kanbanProject' folder contains all assignments for Kanban card project.
 
 Please see the kanban Project requirements as follows:
 
